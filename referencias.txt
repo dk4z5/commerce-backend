@@ -1,0 +1,6 @@
+https://medium.com/@marcosrabaioli/criando-uma-api-rest-utilizando-django-rest-framework-parte-1-55ac3e394fa
+
+https://www.django-rest-framework.org/api-guide/generic-views/
+
+
+pip install django-cors-headers
